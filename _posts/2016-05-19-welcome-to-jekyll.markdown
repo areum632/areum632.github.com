@@ -1,25 +1,9 @@
-﻿---
-layout: post
-title:  "Welcome to Jekyll!"
-date:   2016-05-19 14:42:58 +0900
-categories: jekyll update
----
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+﻿#Self introduction
+Hello, My name is **Lee Areum**. I am currently majoring in computer science and engineering department. I am `23`years old. It's totally random fact, but I am definitely a _cat person_. I really love cats. Recently, I won a prize in kind of huge and important competetion. So I feel quite happy these days since I worked so hard for that competetion. I also hope to bring some good result in terms of major.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
 
 {% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}grtrt
+마크다운 (Markdown)은 마크업 언어의 일종으로, 존 그루버(John Gruber)와 아론 스워츠(Aaron Swartz)가 만들었다. 읽기도 쓰기도 쉽다는 장점이 있다. 그루버는 마크다운으로 작성한 문서를 HTML로 변환하는 펄 스크립트도 만들었다. 확장자는 .md를 쓴다.
+{% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
