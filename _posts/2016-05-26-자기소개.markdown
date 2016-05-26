@@ -1,0 +1,16 @@
+﻿#Self introduction  
+
+Hello, My name is **Lee Areum**. I am currently majoring in computer science and engineering department. 
+I am `23`years old. 
+It's totally random fact, but I am definitely a _cat person_. I really love cats.
+Recently, I won a prize in kind of huge and important competetion. So I feel quite happy these days since I worked so hard for that competetion. 
+I also hope to bring some good result in terms of major.
+
+
+{% highlight ruby %}
+안녕 내 이름은 이아름이야
+나는 스물 세 살이고 대학생이야
+
+{% endhighlight %}
+
+
